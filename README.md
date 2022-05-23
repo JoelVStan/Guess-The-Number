@@ -9,4 +9,4 @@ Computer thinks of a random number and the user have to guess it
 User have to guess a number and the computer asks high/low/correct to guess the number.
 
 # What I learned new?
-I learned about module which can be used to generate a random number.
+I learned about 'random' module which can be used to generate a random number.
